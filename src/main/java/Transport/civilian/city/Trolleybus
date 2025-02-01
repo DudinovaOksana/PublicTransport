@@ -1,0 +1,6 @@
+package Transport.civilian.city;
+
+import Transport.civilian.PublicTransport;
+
+public class Trolleybus implements PublicTransport {
+}
